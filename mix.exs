@@ -33,9 +33,8 @@ defmodule NimbleSchool.MixProject do
   # Type `mix help deps` for examples and options.
   defp deps do
     [
-      # {:plug, "~> 1.14"},
-      # {:plug_cowboy, "~> 2.6"},
-      {:articuno, path: "../articuno"},
+      # {:articuno, path: "../articuno"},
+      {:articuno, git: "https://github.com/mvkvc/articuno.git"},
       {:phoenix, "~> 1.6.15"},
       {:phoenix_html, "~> 3.0"},
       {:phoenix_live_reload, "~> 1.2", only: :dev},

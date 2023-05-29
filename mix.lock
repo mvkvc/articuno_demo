@@ -1,4 +1,5 @@
 %{
+  "articuno": {:git, "https://github.com/mvkvc/articuno.git", "2491b3a203f30de1658a37906a11a79013a1a01e", []},
   "bandit": {:hex, :bandit, "0.7.7", "48456d09022607a312cf723a91992236aeaffe4af50615e6e2d2e383fb6bef10", [:mix], [{:hpax, "~> 0.1.1", [hex: :hpax, repo: "hexpm", optional: false]}, {:plug, "~> 1.14", [hex: :plug, repo: "hexpm", optional: false]}, {:telemetry, "~> 0.4 or ~> 1.0", [hex: :telemetry, repo: "hexpm", optional: false]}, {:thousand_island, "~> 0.6.7", [hex: :thousand_island, repo: "hexpm", optional: false]}, {:websock, "~> 0.5", [hex: :websock, repo: "hexpm", optional: false]}], "hexpm", "772f0a32632c2ce41026d85e24b13a469151bb8cea1891e597fb38fde103640a"},
   "castore": {:hex, :castore, "1.0.1", "240b9edb4e9e94f8f56ab39d8d2d0a57f49e46c56aced8f873892df8ff64ff5a", [:mix], [], "hexpm", "b4951de93c224d44fac71614beabd88b71932d0b1dea80d2f80fb9044e01bbb3"},
   "certifi": {:hex, :certifi, "2.9.0", "6f2a475689dd47f19fb74334859d460a2dc4e3252a3324bd2111b8f0429e7e21", [:rebar3], [], "hexpm", "266da46bdb06d6c6d35fde799bcb28d36d985d424ad7c08b5bb48f5b5cdd4641"},
